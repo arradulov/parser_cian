@@ -20,4 +20,4 @@ Requirements
 Python 3.9+
 
 Playwright
- for Python
+ for Pythonit 
